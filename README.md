@@ -1,4 +1,2 @@
 # GestorFinancas
-Projeto desenvolvido em:
-Spring Boot
-React
+Projeto desenvolvido em Spring Boot e React.
